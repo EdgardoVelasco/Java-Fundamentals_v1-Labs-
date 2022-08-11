@@ -9,7 +9,7 @@ public class PruebaCuenta {
         /*Creando cuenta*/
         CuentaCheques cnt1= new CuentaCheques(1234, 'a', 9800, 200, LocalDate.of(2019, Month.MARCH, 23));
         
-        /*Cuenta inversión*/
+        /*Cuenta inversión */
         CuentaInversion cntI= new CuentaInversion(12345, 'a', 9800, 3.2, LocalDate.of(2020, Month.MARCH, 2));
         
         cnt1.imprimirCuenta();

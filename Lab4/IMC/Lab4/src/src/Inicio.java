@@ -2,7 +2,7 @@
 package src;
 /*
 Programa que calcula el IMC de una persona. 
-Formula: IMC= peso(kg)/ (estatura(m))^2
+Formula: IMC= peso(kg)/ (estat ura(m))^2
 */
 
 public class Inicio {

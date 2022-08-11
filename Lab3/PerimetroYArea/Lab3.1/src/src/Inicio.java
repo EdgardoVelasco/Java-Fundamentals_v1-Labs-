@@ -15,7 +15,7 @@ public class Inicio {
         double radio=diametroCirculo/2;
         final double PI=3.1416;
         
-        /*Cálculo de diametro*/
+        /*Cálculo de diametro */
         System.out.println("-.-.-.-.-.Perimetro de Círculo--.-.-.-.-.");
         double perimetro=PI*diametroCirculo;
         System.out.println("Perímetro de circulo: "+perimetro);

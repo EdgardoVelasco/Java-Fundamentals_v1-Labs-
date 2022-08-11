@@ -6,7 +6,7 @@ public class PruebaCuenta {
         /*Creando cuenta*/
         System.out.println("-.-.-.-.-.Cuenta Cheques-.-.-.-.-.");
         CuentaCheques cnt1= new CuentaCheques(1234, 'a', 9800, 200);
-        /*imprimiendo valores objeto*/
+        /*imprimiendo valores  objeto*/
         cnt1.descripcionDeLaCuenta();
         
         /*Cuenta inversión*/

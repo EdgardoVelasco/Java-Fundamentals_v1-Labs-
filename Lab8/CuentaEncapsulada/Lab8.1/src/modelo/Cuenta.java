@@ -7,7 +7,7 @@ public class Cuenta {
 
     public Cuenta(int numeroCuenta, char tipoCuenta, double saldo) {
         this.numeroCuenta = numeroCuenta;
-        this.tipoCuenta = tipoCuenta;
+        this.tipoCuenta =  tipoCuenta;
         this.saldo = saldo;
     }
 

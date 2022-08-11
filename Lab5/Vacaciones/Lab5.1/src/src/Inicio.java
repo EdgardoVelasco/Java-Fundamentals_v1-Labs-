@@ -6,7 +6,7 @@ public class Inicio {
 
     public static void main(String[] args) {
         /*Declaración de variables*/
-        int aniosServicio=3;
+        int aniosServicio=3 ;
         int[]diasVacaciones= {0, 6, 8, 10, 12};
         
         if(aniosServicio>=0 && aniosServicio<=4){

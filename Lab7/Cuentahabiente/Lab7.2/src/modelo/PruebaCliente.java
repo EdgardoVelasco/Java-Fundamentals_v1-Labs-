@@ -6,7 +6,7 @@ public class PruebaCliente {
         /*Creando cuenta*/
         Cuenta cnt1= new Cuenta(1234, 'a', 9800);
         Cuenta cnt2= new Cuenta(1235, 'b', 10800);
-        Cuenta cnt3= new Cuenta(1236, 'a', 1800);
+        Cuenta cnt3= new  Cuenta(1236, 'a', 1800);
         
         /*Cuenta Habiente*/
         CuentaHabiente ca1=new CuentaHabiente("Den", "jeferson 24", "1234567");

@@ -3,10 +3,10 @@ package modelo;
 public class PruebaCuenta {
 
     public static void main(String[] args) {
-        /*Creando cuenta*/
+        /*Creando cuenta */
         CuentaCheques cnt1= new CuentaCheques(1234, 'a', 9800, 200);
         
-        /*Cuenta inversión*/
+        /*Cuenta inversión */
         CuentaInversion cntI= new CuentaInversion(12345, 'a', 9800, 3.2);
         
         

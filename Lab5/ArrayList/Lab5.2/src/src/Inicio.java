@@ -2,7 +2,7 @@ package src;
 /*
 Manejo de ArrayList
 */
-/*importaciones*/
+/*importaciones */
 import java.util.ArrayList;
 
 public class Inicio {

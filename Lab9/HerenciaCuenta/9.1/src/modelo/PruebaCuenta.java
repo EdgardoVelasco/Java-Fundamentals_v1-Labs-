@@ -3,7 +3,7 @@ package modelo;
 public class PruebaCuenta {
 
     public static void main(String[] args) {
-        /*Creando cuenta*/
+        /*Creando cuenta */
         System.out.println("-.-.-.-.-.Cuenta Cheques-.-.-.-.-.");
         CuentaCheques cnt1= new CuentaCheques(1234, 'a', 9800, 200);
         /*Realizando movimientos*/
