@@ -4,7 +4,7 @@ package src;
 En este Laboratorio se solicita crear un proyecto que convierta de
 Farenheit a Centigrados
 
-Formula: C=(F-32)/(9.0/5.0) o  C=(F-32)*(5.0/9.0)
+Formula: C=(F-32)* 5/9 
 
 */
 public class Inicio {
@@ -16,7 +16,7 @@ public class Inicio {
         double farenheit=68;
         
         /*Conversión grados a centigrados*/
-        double centigrados= (farenheit-32)/(9.0/5.0);
+        double centigrados= (farenheit-32)* 5.0/9;
         System.out.println(farenheit+" grados farenheit son "+centigrados+ " grados centigrados: ");
     }
     
