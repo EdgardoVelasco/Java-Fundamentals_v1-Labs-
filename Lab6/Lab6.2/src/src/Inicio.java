@@ -1,7 +1,7 @@
 
 package src;
 /*
-Secuencia de Fibonacci;
+Secuencia de  Fibonacci;
 */
 
 public class Inicio {

@@ -1,7 +1,7 @@
 
 package srrc;
 /*
-Factorial de los números del 1 al 10
+Factorial de los  números del 1 al 10
 */
 
 public class Inicio {

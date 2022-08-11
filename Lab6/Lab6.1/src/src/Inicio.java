@@ -1,6 +1,6 @@
 package src;
 
-/*Imprimir los 20 primeros número primos*/
+/*Imprimir los 20  primeros número primos*/
 public class Inicio {
 
     public static void main(String[] args) {
